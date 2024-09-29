@@ -6,6 +6,8 @@ This application provides a simple interface to interact with the Ethereum block
 
 The `parser` package (/pkg) provides functionality to interact with the Ethereum blockchain. It provides the methods for fetching block data, processing transactions, and validating Ethereum addresses.
 
+*Note: This application does not use any external Go libraries.
+
 ## Requirements
 
 - Go 1.16 or higher
